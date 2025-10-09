@@ -1,7 +1,7 @@
 {
   "name": "Kevin V Santos",
   "job": "Desempregado",
-  "photo":"",
+  "photo":"https://github.com/KevinVSantos01/projeto-final-JS/blob/main/assets/img/my-photo.png",
   "location": "Recife-PE",
   "phone": "(99) 99999-9999",
   "email": "exemplo@gmail.com",
@@ -9,37 +9,36 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": ""
+        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": ""
+        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": ""
+        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
-      "",
-      "",
-      ""
+      "Organização",
+      "Flexibilidade",
+      "Trabalho em Equipe"
     ]
   },
   "languages": [
     "Portugues",
-    "Ingles",
-    ""
+    "Ingles"
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "Projeto DIO - Pokedex",
+      "url": "https://github.com/KevinVSantos01/trilha-js-projeto1",
       "github":true
     },
     {
-      "name": "",
-      "url": "",
+      "name": "Projeto DIO - CSS Clone Hbo Max",
+      "url": "https://github.com/KevinVSantos01/projeto-css-05",
       "github":true
     },
     {
@@ -50,9 +49,9 @@
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "Cozinheiro",
+      "period": "2018 - Presente",
+      "description": "Atuei como cozinheiro alguns anos porém não quis seguir carreira"
     }
   ]
 }

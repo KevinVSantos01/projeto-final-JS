@@ -1,7 +1,7 @@
 {
   "name": "Kevin V Santos",
   "job": "Desempregado",
-  "photo":"https://github.com/KevinVSantos01/projeto-final-JS/blob/main/assets/img/my-photo.png",
+  "photo":"https://raw.githubusercontent.com/KevinVSantos01/projeto-final-JS/refs/heads/main/assets/img/my-photo.png",
   "location": "Recife-PE",
   "phone": "(99) 99999-9999",
   "email": "exemplo@gmail.com",
@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/KevinVSantos01/projeto-final-JS/refs/heads/main/data/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/KevinVSantos01/projeto-final-JS/refs/heads/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/KevinVSantos01/projeto-final-JS/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/KevinVSantos01/projeto-final-JS/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [

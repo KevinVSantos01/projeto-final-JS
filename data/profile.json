@@ -1,0 +1,58 @@
+{
+  "name": "Kevin V Santos",
+  "job": "Desempregado",
+  "photo":"",
+  "location": "Recife-PE",
+  "phone": "(99) 99999-9999",
+  "email": "exemplo@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": ""
+      },
+      {
+        "name": "JavaScript",
+        "logo": ""
+      },
+      {
+        "name": "CSS",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "languages": [
+    "Portugues",
+    "Ingles",
+    ""
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "url": "",
+      "github":true
+    },
+    {
+      "name": "",
+      "url": "",
+      "github":true
+    },
+    {
+      "name": "",
+      "url": "",
+      "github":false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    }
+  ]
+}

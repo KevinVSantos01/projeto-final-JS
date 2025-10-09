@@ -35,3 +35,13 @@
     background-image: url('../img/icons/github.svg');
     margin-right: .5rem;
 }
+
+.portfolio li a {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: .5rem;
+}
